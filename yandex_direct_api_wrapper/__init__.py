@@ -1,5 +1,5 @@
-from yandex_direct_api.client import YandexDirect
-from yandex_direct_api.constants import (
+from yandex_direct_api_wrapper.client import YandexDirect
+from yandex_direct_api_wrapper.constants import (
     ReportType,
     DateRangeType,
     ProcessingMode,
